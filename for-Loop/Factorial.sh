@@ -1,6 +1,7 @@
 #!/bin/bash -x
 
 n=' 5 '
+
 result=1
 
 for (( number=1; number<=$n; number++ ))
